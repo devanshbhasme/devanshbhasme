@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Devansh 👋</h1>
+<h1>Hi, I'm Devansh </h1>
 
 <p><b>Computer Science Engineering student building practical software, from web platforms to applied ML.</b></p>
 
